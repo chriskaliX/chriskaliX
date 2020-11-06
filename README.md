@@ -7,4 +7,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ChriskaliX&show_icons=true&hide_title=false)
 
 
-![Visitor Count](https://profile-counter.glitch.me/chriskaliX/count.svg)
+<a href="https://github.com/jingyuexing/MathLib" style="margin-bottom:5px">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=chriskali&repo=MathLib" />
+</a>
