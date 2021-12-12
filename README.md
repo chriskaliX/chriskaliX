@@ -2,7 +2,7 @@
 
 #### Working On
 
-- ⚡ Hades: HIDS(cn_proc & ebpf based)
+- ⚡ [Hades](https://github.com/chriskaliX/Hades): HIDS(cn_proc & ebpf based)
 
 #### Project Todo
 
