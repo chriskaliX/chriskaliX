@@ -15,7 +15,7 @@
 - [ ] start to work on golang basic, MIT classes
 - [ ] go through ngx source code(nothing special, just to dig some thing for fun & learn)
 
-![](https://github-readme-stats.vercel.app/api?username=ChriskaliX&show_icons=true&hide_title=false)
+![](https://github-readme-stats.vercel.app/api?username=ChriskaliX&show_icons=true&hide_title=false&include_all_commits=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriskalix&hide=css,html)]()
