@@ -12,9 +12,9 @@
 
 #### Want to do
 
-- [ ] (15%) start to work on golang basic, MIT classes 
-- [ ] ( 0%) go through ngx source code(nothing special, just to dig some thing for fun & learn)
-- [ ] (20%) go through datadog agent - Elkied - tracee 
+- [ ] (30%) start to work on golang basic, MIT classes 
+- [ ] ( 5%) go through ngx source code(nothing special, just to dig some thing for fun & learn)
+- [ ] (25%) go through datadog agent - Elkied - tracee 
 
 ![](https://github-readme-stats.vercel.app/api?username=ChriskaliX&show_icons=true&hide_title=false&include_all_commits=true)
 
