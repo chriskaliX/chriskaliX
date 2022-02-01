@@ -12,7 +12,8 @@
 
 #### Want to do
 
-- [ ] (30%) start to work on golang basic, MIT classes 
+- [ ] (40%) start to work on golang basic, MIT classes
+  - [x] uber go guide, finished  
 - [ ] ( 5%) go through ngx source code(nothing special, just to dig some thing for fun & learn)
 - [ ] (25%) go through datadog agent - Elkied - tracee 
 
