@@ -12,11 +12,8 @@
 
 #### Want to do
 
-- [ ] (40%) start to work on golang basic, MIT classes
-  - [x] uber go guide, finished  
-- [ ] ( 5%) go through ngx source code(nothing special, just to dig some thing for fun & learn)
-- [ ] (25%) go through datadog agent - Elkied - tracee 
+- Java
+- HIDS/eBPF
+- WAF
 
 ![](https://github-readme-stats.vercel.app/api?username=ChriskaliX&show_icons=true&hide_title=false&include_all_commits=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chriskalix&hide=css,html)]()
