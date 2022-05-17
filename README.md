@@ -4,6 +4,10 @@
 
 - ⚡ [Hades](https://github.com/chriskaliX/Hades): HIDS(cn_proc & ebpf based)
 
+#### Contact Me
+
+- Email: chriskalix@protonmail.com
+
 #### Project Todo
 
 - ⚡ Zues: WAF (lua based, and the server )
