@@ -8,16 +8,17 @@
 
 - Email: chriskalix@protonmail.com
 
-#### Project Todo
+#### Projects Todo
 
 - ⚡ Zues: WAF (lua based, and the server )
 - ⚡ Uranus: Java Code Auditd(soot | codeql 🌟)
 - ⚡ Poseidon: RASP (really want to do !...)
 
-#### Want to do
+#### Projects in working
 
-- Java
-- HIDS/eBPF
-- WAF
+- WAF Related (Lua/Flink)
+- CodeQL (detect IDOR)
+- SOC
+- HIDS
 
 ![](https://github-readme-stats.vercel.app/api?username=ChriskaliX&show_icons=true&hide_title=false&include_all_commits=true)
